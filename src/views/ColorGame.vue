@@ -209,7 +209,7 @@ export default{
 <template>
   <main class="w-full min-h-screen bg-gradient-to-b from-[#FFF9D0] via-[#A0DEFF] to-[#5AB2FF]">
     <div>
-      <h1 class="text-center text-[55px] sm:text-[80px] bg-gradient-to-b from-[#ec2f4b] via-[#f5af19] to-[#009fff] text-transparent bg-clip-text">Color Game</h1>
+      <h1 class="text-center text-[55px] sm:text-[80px] bg-gradient-to-b from-[#ec2f4b] via-[#f5af19] to-[#009fff] text-transparent bg-clip-text">Color Game change</h1>
       <div class="flex items-center justify-center gap-3">
         <div class="flex items-center gap-3">
           <div class="text-xl">Time left: <span>{{ timeleft }}</span>s</div>
